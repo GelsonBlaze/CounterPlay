@@ -1,2 +1,2 @@
 # CounterPlay
-My first reposiroty, trying to finish a school project
+Hi, my name is Afonso i´m 19 years old and i´m currently studying programming
