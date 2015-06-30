@@ -1,0 +1,5 @@
+bloquear inserir quando selecionamos uma pessoa
+nada selecionado - update block
+qualquer decisao - message box "Tem a certeza?"
+painel para cartas e outros produtos (organizado por nº)
+
