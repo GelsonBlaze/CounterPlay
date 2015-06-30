@@ -1,0 +1,25 @@
+Fazer mais um evento no icon quando o rato fica lá em cima.  DONE
+MTG FONT:
+http://www.dafont.com/planewalker.font DONE
+
+Desenhar gráfico para a form de gráficos com percentagens
+
+Por o gerir cartas a brilhar
+
+Data Visualization
+
+terminar sessão
+
+sair 
+
+criar atalhos(tabs)
+
+Escolher fundo
+
+login portrait
+
+atalhos
+
+forms para ajuda e settings
+
+message box para ações (tem a certeza blablabla)
